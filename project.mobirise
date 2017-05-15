@@ -1,0 +1,401 @@
+{
+  "settings": {
+    "name": "Buruto",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 15,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/boruto-banner-384x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Buruto</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\">Download VDO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-b\">Contact US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/boruto-naruto-the-movie-2000x1556.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Boruto: Naruto Next Generations",
+          "text": "<p>Season 1</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-8",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-600x331.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://openload.co/f/z0sihBOc-cY",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title1": "Boruto Episode 1 Subbed",
+          "subtitle1": "",
+          "caption1": "Titel: Boruto Uzumaki",
+          "button1": "<a data-app-btn=\"true\" href=\"&lt;a href=&quot;https://openload.co/f/KHgAHBP39H4/Boruto_Episode_1_Subbed_Boruto_Uzumaki%21.MP4.mp4&quot;&gt;&lt;img src=&quot;https://thumb.oloadcdn.net/splash/KHgAHBP39H4/oPiKSE5DAG4.jpg&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://openload.co/f/mx2HOHa33pU/Boruto_Episode_2_Subbed_The_Hokage%27s_Son%21.MP4.mp4&quot;&gt;&lt;img src=&quot;https://thumb.oloadcdn.net/splash/mx2HOHa33pU/rGBwnukw-Og.jpg&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://openload.co/f/CHrJjfMty8Q/Boruto_Episode_3_Subbed_Metal_Lee_Goes_Wild%21.MP4.mp4&quot;&gt;&lt;img src=&quot;https://thumb.oloadcdn.net/splash/CHrJjfMty8Q/Pa_A--A8Jsk.jpg&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://openload.co/f/-fudI0cDfbU/Boruto_Episode_4_Subbed_A_Ninjutsu_Battle_of_the_.MP4.mp4&quot;&gt;&lt;img src=&quot;https://thumb.oloadcdn.net/splash/-fudI0cDfbU/KfTpt3noVjs.jpg&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://openload.co/f/z0sihBOc-cY/Boruto_Episode_5_Subbed_The_Mysterious_Transfer_.MP4.mp4&quot;&gt;&lt;img src=&quot;https://thumb.oloadcdn.net/splash/z0sihBOc-cY/rZCoiuZcBCM.jpg&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://openload.co/f/Gx9OLGxia10/Boruto_Episode_6_Subbed_The_Final_Lesson.MP4.mp4&quot;&gt;&lt;img src=&quot;https://thumb.oloadcdn.net/splash/Gx9OLGxia10/_0-X7ZBRsoo.jpg&quot; /&gt;&lt;/a&gt;\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2-600x312.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://openload.co/f/mx2HOHa33pU",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title2": "Boruto Episode 2 Subbed&nbsp;",
+          "subtitle2": "",
+          "caption2": "Titel: The Hokage's Son!",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3-600x339.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://openload.co/f/CHrJjfMty8Q",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title3": "Boruto Episode 3 Subbed&nbsp;",
+          "subtitle3": "",
+          "caption3": "Titel:Metal Lee Goes Wild!.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4-600x321.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://openload.co/f/-fudI0cDfbU",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title4": "Boruto Episode 4 Subbed &nbsp;",
+          "subtitle4": "",
+          "caption4": "A Ninjutsu Battle of the",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5-600x309.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://openload.co/f/z0sihBOc-cY",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title5": "Boruto Episode 5 Subbed&nbsp;",
+          "subtitle5": "",
+          "caption5": "The Mysterious Transfer ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/6-600x345.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://openload.co/f/Gx9OLGxia10",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title6": "Boruto Episode 6 Subbed&nbsp;",
+          "subtitle6": "",
+          "caption6": "The Final Lesson",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "About Buruto",
+          "text": "Cut down the development time with drag-and-drop website builder."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Boruto: Naruto Next Generations (Japanese: BORUTO-ボルト- NARUTO NEXT GENERATIONS?) is a Japanese manga series written by Ukyō Kodachi and illustrated by Mikio Ikemoto. Serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump, Boruto is a spin-off and the sequel of Masashi Kishimoto's Naruto and follows the exploits of Naruto Uzumaki's son Boruto Uzumaki and his ninja team. An anime television series adaptation started airing on TV Tokyo on April 5, 2017.</p><p>Years later after the Fourth Great Ninja War, now overseeing a new generation in the Ninja World, Naruto Uzumaki achieves his dream of becoming the Seventh Hokage, after he and Hinata Hyuga married. They have two children: Boruto and Himawari. Boruto has become part of a ninja team led by Naruto's protege Konohamaru Sarutobi, which also consists of Sasuke Uchiha and Sakura Haruno's daughter Sarada Uchiha and Orochimaru's artificial son Mitsuki. Feeling that Naruto is placing his duties over his family, Boruto becomes upset at him for missing Himawari's birthday. Boruto meets Sasuke, when he returns to the village to warn Naruto about the impending threat. Boruto manages to convince Sasuke to teach the Rasengan to him for the upcoming Chunin Exam. Boruto's bad action drives him to cheat the exam with Katasuke's inventing device called the Kote, only for Naruto to disqualify Boruto during the match with Shikadai Nara, Shikamaru and Temari's son. The two have an argument until Momoshiki and Kinshiki Ōtsutsuki, the figures Sasuke warned Naruto of, appear and abduct Naruto, so they can use Kurama to revitalize the dying Shinju from the dimension which they came from.</p><p><br></p><p>Seeing his father risking his life to protect everyone, the repentant Boruto convinces Sasuke and the Five Kages to join them to make amends for Naruto. After Boruto, Sasuke and the Kages arrive in the other dimension to save Naruto, Momoshiki turns Kinshiki into a chakra fruit and he ingests to increase his strength, overpowering everyone due to Katasuke's interference. As Sasuke distracts Momoshiki, a weakened Naruto lends his remaining chakra to Boruto and he uses a giant Rasengan to defeat Momoshiki. Though dying, noting his killer's untapped potential, Momoshiki lives long enough to have a private discussion with Boruto and warns him that he soon will face much tribulation later on in his life. Without knowing what the future holds for him, Boruto accepts his fate.</p><p>Boruto fights a man named Kawaki on the Hokage Monument as Kawaki declares the age of shinobi is over. Boruto activates his right eye and says he too is a shinobi, revealing Konoha has been destroyed. Several years prior to the event and movie, Boruto is the son of Naruto, who is now the Seventh Hokage, and Hinata. Boruto and Shikadai ride on top of a train while eating lunch, and Shikadai reminds him tomorrow is the day of their Academy entrance ceremony but Boruto doesn't care because he only wants to embarrass Naruto. Shikadai says Boruto is like the train: going down a Nameless path before finding his way, before leaving. Boruto sees a boy, Denki, being bullied and defends him. Boruto and Denki talk about their fathers, with Denki revealing his father is a billionaire businessman responsible for the train system in Konoha. Boruto encourages him to stand up to his father. Boruto returns home to his mother and sister, but is unsurprised Naruto is not home. Meanwhile Denki tries to stand up for himself but his father rejects him, saying Denki will win his approval by being strong. The next morning, Boruto is running late for the ceremony and sees Denki being controlled by an evil aura. Denki lures the bullies on a broken train and sends it driving towards another train with the intent of scaring them. Boruto intervenes and snaps Denki back to his senses, and manages to avoid the collision. However the train ends up crashing into Naruto's stone face. The two become friends as they attend the Academy the next day.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-b",
+          "_params": {
+            "labelsColor": "#ffffff",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6umupjx8bxeifdjjazrkmsxevn-2000x1124.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mr.2md@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
